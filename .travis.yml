@@ -1,1 +1,2 @@
-
+language: csharp
+solution: WebApplication4.sln
