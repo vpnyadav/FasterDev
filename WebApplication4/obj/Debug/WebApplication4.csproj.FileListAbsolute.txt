@@ -1,0 +1,166 @@
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\ApplicationInsights.config
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\csc.exe
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\System.Collections.Immutable.dll
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\vbc.exe
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe.config
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\WebApplication4.dll.config
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\WebApplication4.dll
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Antlr3.Runtime.dll
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\EntityFramework.dll
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\EntityFramework.SqlServer.dll
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.Web.dll
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.WindowsServer.dll
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.ApplicationInsights.dll
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.Owin.dll
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.dll
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Google.dll
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.Web.Infrastructure.dll
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Newtonsoft.Json.dll
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Owin.dll
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\System.Web.Helpers.dll
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\System.Web.Mvc.dll
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\System.Web.Optimization.dll
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\System.Web.Razor.dll
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\System.Web.WebPages.Deployment.dll
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\System.Web.WebPages.dll
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\System.Web.WebPages.Razor.dll
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\WebGrease.dll
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.Web.xml
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.WindowsServer.xml
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.ApplicationInsights.xml
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\System.Web.Helpers.xml
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\System.Web.Mvc.xml
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\System.Web.Optimization.xml
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\System.Web.Razor.xml
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\System.Web.WebPages.xml
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\System.Web.WebPages.Deployment.xml
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\System.Web.WebPages.Razor.xml
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Antlr3.Runtime.pdb
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Newtonsoft.Json.xml
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\EntityFramework.xml
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\EntityFramework.SqlServer.xml
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.Owin.xml
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.xml
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Google.xml
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Faster.Notification.dll
+c:\users\viva\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csprojResolveAssemblyReference.cache
+D:\WebApplication4\WebApplication4\bin\ApplicationInsights.config
+D:\WebApplication4\WebApplication4\bin\roslyn\csc.exe
+D:\WebApplication4\WebApplication4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WebApplication4\WebApplication4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WebApplication4\WebApplication4\bin\roslyn\System.Collections.Immutable.dll
+D:\WebApplication4\WebApplication4\bin\roslyn\System.Reflection.Metadata.dll
+D:\WebApplication4\WebApplication4\bin\roslyn\vbc.exe
+D:\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe
+D:\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe.config
+D:\WebApplication4\WebApplication4\bin\WebApplication4.dll.config
+D:\WebApplication4\WebApplication4\bin\WebApplication4.dll
+D:\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+D:\WebApplication4\WebApplication4\bin\Antlr3.Runtime.dll
+D:\WebApplication4\WebApplication4\bin\EntityFramework.dll
+D:\WebApplication4\WebApplication4\bin\EntityFramework.SqlServer.dll
+D:\WebApplication4\WebApplication4\bin\Faster.Notification.dll
+D:\WebApplication4\WebApplication4\bin\Microsoft.AI.Agent.Intercept.dll
+D:\WebApplication4\WebApplication4\bin\Microsoft.AI.DependencyCollector.dll
+D:\WebApplication4\WebApplication4\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\WebApplication4\WebApplication4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\WebApplication4\WebApplication4\bin\Microsoft.AI.Web.dll
+D:\WebApplication4\WebApplication4\bin\Microsoft.AI.WindowsServer.dll
+D:\WebApplication4\WebApplication4\bin\Microsoft.ApplicationInsights.dll
+D:\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.Core.dll
+D:\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WebApplication4\WebApplication4\bin\Microsoft.Owin.dll
+D:\WebApplication4\WebApplication4\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Cookies.dll
+D:\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.dll
+D:\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Facebook.dll
+D:\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Google.dll
+D:\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.OAuth.dll
+D:\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Twitter.dll
+D:\WebApplication4\WebApplication4\bin\Microsoft.Web.Infrastructure.dll
+D:\WebApplication4\WebApplication4\bin\Newtonsoft.Json.dll
+D:\WebApplication4\WebApplication4\bin\Owin.dll
+D:\WebApplication4\WebApplication4\bin\System.Web.Helpers.dll
+D:\WebApplication4\WebApplication4\bin\System.Web.Mvc.dll
+D:\WebApplication4\WebApplication4\bin\System.Web.Optimization.dll
+D:\WebApplication4\WebApplication4\bin\System.Web.Razor.dll
+D:\WebApplication4\WebApplication4\bin\System.Web.WebPages.Deployment.dll
+D:\WebApplication4\WebApplication4\bin\System.Web.WebPages.dll
+D:\WebApplication4\WebApplication4\bin\System.Web.WebPages.Razor.dll
+D:\WebApplication4\WebApplication4\bin\WebGrease.dll
+D:\WebApplication4\WebApplication4\bin\Microsoft.AI.DependencyCollector.xml
+D:\WebApplication4\WebApplication4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\WebApplication4\WebApplication4\bin\Microsoft.AI.Web.xml
+D:\WebApplication4\WebApplication4\bin\Microsoft.AI.WindowsServer.xml
+D:\WebApplication4\WebApplication4\bin\Microsoft.ApplicationInsights.xml
+D:\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WebApplication4\WebApplication4\bin\Newtonsoft.Json.xml
+D:\WebApplication4\WebApplication4\bin\System.Web.Helpers.xml
+D:\WebApplication4\WebApplication4\bin\System.Web.Mvc.xml
+D:\WebApplication4\WebApplication4\bin\System.Web.Optimization.xml
+D:\WebApplication4\WebApplication4\bin\System.Web.Razor.xml
+D:\WebApplication4\WebApplication4\bin\System.Web.WebPages.xml
+D:\WebApplication4\WebApplication4\bin\System.Web.WebPages.Deployment.xml
+D:\WebApplication4\WebApplication4\bin\System.Web.WebPages.Razor.xml
+D:\WebApplication4\WebApplication4\bin\Antlr3.Runtime.pdb
+D:\WebApplication4\WebApplication4\bin\EntityFramework.xml
+D:\WebApplication4\WebApplication4\bin\EntityFramework.SqlServer.xml
+D:\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.Core.xml
+D:\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\WebApplication4\WebApplication4\bin\Microsoft.Owin.xml
+D:\WebApplication4\WebApplication4\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.xml
+D:\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Facebook.xml
+D:\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Cookies.xml
+D:\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.OAuth.xml
+D:\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Google.xml
+D:\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Twitter.xml
+D:\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csprojResolveAssemblyReference.cache
+D:\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+D:\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb

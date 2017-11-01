@@ -1,0 +1,5 @@
+D:\faster\Faster.Notification\bin\Release\Faster.Notification.dll
+D:\faster\Faster.Notification\bin\Release\Faster.Notification.pdb
+D:\faster\Faster.Notification\obj\Release\Faster.Notification.csprojResolveAssemblyReference.cache
+D:\faster\Faster.Notification\obj\Release\Faster.Notification.dll
+D:\faster\Faster.Notification\obj\Release\Faster.Notification.pdb

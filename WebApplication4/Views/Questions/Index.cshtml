@@ -1,0 +1,127 @@
+﻿@model IEnumerable<WebApplication4.Models.Question>
+@using Faster.Notification
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutGentelella.cshtml";
+}
+
+@Styles.Render("~/bundles/DataTablecss")
+
+<div class="col-md-12 col-sm-12 col-xs-12">
+              @if(TempData["Aftersave"] != null)
+                {
+                    Notification ns = TempData["Aftersave"] as Notification;
+                        <script>
+                            $(document).ready(function(){
+                                new PNotify({
+                                    title: '@ns.MsgHeader',
+                                    text: '@ns.MsgText',
+                                    type:  '@ns.MsgType',
+                                    styling: 'bootstrap3'
+                                });
+                            });
+                        </script>
+                }
+</div>
+<div class="col-md-12 col-sm-12 col-xs-12">
+        <div class="x_panel">
+            <div class="x_title">
+                <h3 class="pull-left">
+                    List  of Items
+                </h3>
+                <div class="pull-right">
+                    <a href="@Url.Action("Create")" class="btn bg-blue">
+                        <i class="fa fa-plus-square"></i>
+                        Add new
+                    </a>
+                    @*<button type="button" id="delete-selected" class="btn bg-red">
+                            <i class="fa fa-trash-o"></i>
+                            Delete (selected)
+                        </button>*@
+                    <ul class="nav navbar-right panel_toolbox">
+                        <li>
+                            <a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+            <div class="x_content table-responsive">
+
+
+ <table class="table table-bordered order-column" id="datatable-responsive">
+                    <thead>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Questions)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Vote)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.View)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Date)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Answer1)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AcceptedAnswer)
+        </th>
+         <th  style="display: none;">
+                            </th>
+                            <th style="display: none;"></th>
+                            <th style="display: none;"></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Title)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Questions)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Vote)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.View)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Date)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Answer1)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AcceptedAnswer)
+        </td>
+    
+		 <td width="2%">
+                                    @Html.ActionLink(" ", "Edit", new { id=item.ID }, new { @class = "fa fa-pencil", title = "Edit This Record" }) 
+                                </td>
+                                <td width="2%">
+                                    @Html.ActionLink(" ", "Details", new { id=item.ID }, new { @class = "fa fa-eye", title = "View Details Of This Record" })
+                                </td>
+                                <td width="2%">
+                                    @Html.ActionLink(" ", "Delete", new { id=item.ID }, new { @class = "fa fa-trash", title = "Delete This Record" })
+                                </td>
+                          
+    </tr>
+	
+}
+ </tbody>
+</table>
+ </div>
+        </div>
+    </div>
+@Scripts.Render("~/bundles/DataTablescript")

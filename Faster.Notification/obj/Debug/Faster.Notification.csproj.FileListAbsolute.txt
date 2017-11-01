@@ -1,0 +1,8 @@
+D:\faster\Faster.Notification\bin\Debug\Faster.Notification.dll
+D:\faster\Faster.Notification\bin\Debug\Faster.Notification.pdb
+D:\faster\Faster.Notification\obj\Debug\Faster.Notification.dll
+D:\faster\Faster.Notification\obj\Debug\Faster.Notification.pdb
+D:\DynamicAdmin\Faster.Notification\bin\Debug\Faster.Notification.dll
+D:\DynamicAdmin\Faster.Notification\bin\Debug\Faster.Notification.pdb
+D:\DynamicAdmin\Faster.Notification\obj\Debug\Faster.Notification.dll
+D:\DynamicAdmin\Faster.Notification\obj\Debug\Faster.Notification.pdb
